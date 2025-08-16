@@ -1,1 +1,2 @@
 this file edited in master branch
+line 2 edited in master branch
